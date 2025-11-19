@@ -1,0 +1,54 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Build & cache
+dist/
+build/
+cache/
+.tmp/
+.temp/
+.eslintcache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.swp
+*.swo
+
+# Coverage
+coverage/
+.nyc_output/
+
+# IDE / Editor configs
+.vscode/
+.idea/
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional: PM2 logs
+.pnpm-store/
+pm2.log
